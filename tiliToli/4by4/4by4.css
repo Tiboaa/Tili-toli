@@ -8,6 +8,7 @@ body {
 header {
     position: fixed;
     top: 0;
+    text-align: left;
     width: 100%;
     z-index: 999;
 }
@@ -20,10 +21,9 @@ main {
 
 #back {
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 200%;
     color: #202233;
-    text-align: left;
     margin: 0;
 }
 
